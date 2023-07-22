@@ -1,0 +1,5 @@
+**/logs
+*.log
+*.vscode
+**/__pycache__
+*.code-workspace
