@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "get-audio-duration": "^3.1.1"
+  }
+}
